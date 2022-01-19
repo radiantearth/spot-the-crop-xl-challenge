@@ -20,8 +20,8 @@ Follow these steps to reproduce the solution:
      - Run all to get the final submission file
      
 Use the below notebooks for data download and manipulation:
-    - Data Download
-    - Numpy_Extraction_for_Month_Start_Month_End
-    - Numpy Extraction_for_25_Periods
-    - Field_Aggregation_Mean
+- Data Download
+- Numpy_Extraction_for_Month_Start_Month_End
+- Numpy Extraction_for_25_Periods
+- Field_Aggregation_Mean
 
