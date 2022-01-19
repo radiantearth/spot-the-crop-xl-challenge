@@ -1,0 +1,16 @@
+1. Run NN_XL.ipynb : Kaggle - CPU
+2. Run NNA_XL.ipynb : Kaggle - GPU(Tesla P100)
+3. Run XGBoost_XL.ipynb : Kaggle - GPU(Tesla P100)
+4. Run XL_Catboost.ipynb : Colab - GPU (Tesla K80)
+5. Run LGBM folder notebooks : colab - CPU
+
+# from step 6 to 9 , you can find those notebooks in S2/modeling folder .
+6. Run NN_S2.ipynb : Kaggle - CPU
+7. Run NNA_S2.ipynb : Kaggle - GPU(Tesla P100)
+8. Run XGBOOST_S2.ipynb : Kaggle - GPU(Tesla P100)
+9. Run S2_Catboost.ipynb : Colab - GPU (Tesla K80)
+
+------------
+each of the previous notebooks will output .npy oof file and csv prediction file . those files will be used for blending-stacking 
+------------
+10.Run StackingBlending_XL.ipynb - colab : CPU
